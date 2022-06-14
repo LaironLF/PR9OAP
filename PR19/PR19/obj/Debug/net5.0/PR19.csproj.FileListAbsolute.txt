@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Задания ОАиП\ПР19\PR19\PR19\obj\Debug\net5.0\PR19.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Задания ОАиП\ПР19\PR19\PR19\obj\Debug\net5.0\PR19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Задания ОАиП\ПР19\PR19\PR19\obj\Debug\net5.0\PR19.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Задания ОАиП\ПР19\PR19\PR19\obj\Debug\net5.0\PR19.AssemblyInfo.cs
+C:\Users\USER\Desktop\Задания ОАиП\ПР19\PR19\PR19\obj\Debug\net5.0\PR19.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Задания ОАиП\ПР19\PR19\PR19\bin\Debug\net5.0\PR19.exe
+C:\Users\USER\Desktop\Задания ОАиП\ПР19\PR19\PR19\bin\Debug\net5.0\PR19.deps.json
+C:\Users\USER\Desktop\Задания ОАиП\ПР19\PR19\PR19\bin\Debug\net5.0\PR19.runtimeconfig.json
+C:\Users\USER\Desktop\Задания ОАиП\ПР19\PR19\PR19\bin\Debug\net5.0\PR19.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Задания ОАиП\ПР19\PR19\PR19\bin\Debug\net5.0\PR19.dll
+C:\Users\USER\Desktop\Задания ОАиП\ПР19\PR19\PR19\bin\Debug\net5.0\ref\PR19.dll
+C:\Users\USER\Desktop\Задания ОАиП\ПР19\PR19\PR19\bin\Debug\net5.0\PR19.pdb
+C:\Users\USER\Desktop\Задания ОАиП\ПР19\PR19\PR19\obj\Debug\net5.0\PR19.dll
+C:\Users\USER\Desktop\Задания ОАиП\ПР19\PR19\PR19\obj\Debug\net5.0\ref\PR19.dll
+C:\Users\USER\Desktop\Задания ОАиП\ПР19\PR19\PR19\obj\Debug\net5.0\PR19.pdb
+C:\Users\USER\Desktop\Задания ОАиП\ПР19\PR19\PR19\obj\Debug\net5.0\PR19.genruntimeconfig.cache
